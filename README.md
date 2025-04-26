@@ -1,1 +1,3 @@
 # AIpoweredDoctor
+AI-Powered Virtual Doctor is an intelligent healthcare assistant designed to simulate a virtual consultation experience. Leveraging natural language processing and machine learning, this system allows users to describe their symptoms in plain language and receive preliminary health advice instantly. The platform provides basic symptom checking, suggests possible conditions, and recommends whether a visit to a doctor is necessary. It aims to make healthcare more accessible, especially in remote areas or for initial self-assessment. With a user-friendly interface and real-time interaction, the AI Virtual Doctor offers a fast, informative, and supportive tool for early-stage medical guidance.
+
